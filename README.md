@@ -1,2 +1,2 @@
 # sms_sender
-Various projects that send SMS messages
+A project I made to send me texts when a game price lowered below a certain threshold.
